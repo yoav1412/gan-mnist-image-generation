@@ -31,7 +31,7 @@ After 9000 training steps:
 ![step_9000]
 
 ## Trained Models
-Trained generator model can be found [here](). The model was dumped to file every 1000 steps.
+Trained generator model can be found [here](https://github.com/yoav1412/gan-mnist-image-generation/tree/master/Data/models). The model was dumped to file every 1000 steps.
 
 ## Installing
 see `requirements.txt` file
